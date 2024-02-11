@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=Darosss&color=yellow)
 # Darosss 
 
-👋 Hey there! focusing on mastering:
-JavaScript
-TypeScript
-React
-React Native
-Node.js (Express, Nest.js)
-Recently started exploring Java Spring too.
+ Hey there! focusing on mastering:
+- JavaScript
+- TypeScript
+- React
+- React Native
+- Node.js (Express, Nest.js)
+- and Recently started exploring Java Spring too.
 
 Check out my repos to see what I've been working on lately! Feel free to connect for tech chats.
 
