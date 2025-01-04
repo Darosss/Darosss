@@ -9,6 +9,6 @@
 - Node.js (Express, Nest.js)
 - and Recently started exploring Java Spring too.
 
-Check out my repos to see what I've been working on lately! Feel free to connect for tech chats.
+Check out my repos to see what I've been working on lately!
 
 ![Alt text](https://github-readme-stats.vercel.app/api/top-langs?username=darosss&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
