@@ -12,6 +12,6 @@ Passionate software developer constantly learning and building projects to sharp
 - React
 - React Native
 - Node (Express & Nest.js)
-- and Recently started exploring Java Spring, Vue too.
+- and Recently started exploring Java Spring & Vue too.
 
 ![Alt text](https://github-readme-stats.vercel.app/api/top-langs?username=darosss&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
