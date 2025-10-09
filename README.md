@@ -10,7 +10,7 @@
 - React
 - React Native
 - Node (Express & Nest.js)
-- and Recently started exploring more...like: Java Spring / Vue and many others too
+- and Recently started exploring more...like: Java Spring / Vue and others too
 
 #
 #
