@@ -19,6 +19,6 @@
 #
 #
 
-![Alt text](https://github-readme-stats.vercel.app/api/top-langs?username=darosss&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=darosss&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 ![](https://komarev.com/ghpvc/?username=Darosss&color=yellow)
